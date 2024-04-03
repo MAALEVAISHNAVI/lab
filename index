@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Book Store</title>
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+	<header>
+		<div id="container">
+			<img src="logo.jpg" alt="" height="60px">
+			<a href="index.html" style="font-size:large;">Home</a>
+			<a href="registration.html" style="font-size:large;">Register</a>
+			<a href="login.html" style="font-size:large;">Login</a>
+			<a href="about.html" style="font-size:large;">About Us</a>
+			
+		</div>
+	</header>
+	<div class="bg">
+		<h1 style="font-size: 100px; font-family: cursive,Arial, Helvetica, sans-serif; font-style: italic; font-weight: 100;">Universal Books</h1>
+	</div>
+	
+</body>
+</html>
